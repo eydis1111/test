@@ -1,2 +1,7 @@
 20214 빅데이터프로그레밍2
+init status log add commit
+리눅스 명령어
+pwd ls touch cat
+
+2024 c++
 -파트원1킵
